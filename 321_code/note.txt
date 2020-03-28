@@ -1,0 +1,8 @@
+321 教學內容
+。基本python資料型態介紹
+。基本資料整理、圓餅圖、折線圖、熱圖
+。Qsearch 平台使用教學
+
+補充：中文字型設定可參考本文件：
+。windows：https://zhuanlan.zhihu.com/p/55404865
+。mac：https://www.itread01.com/content/1547164802.html
