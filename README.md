@@ -9,6 +9,9 @@
   + 2021-11-09 基本文字探勘、LDA
   + 2021-11-16 文本共現網路分析
   
+  + LegislatorFB.csv = 第十屆區域立委臉書資料
+  + TestData.csv = 第十屆立院發言資料
+  
 - [資料下載：第十屆立院發言資料](https://drive.google.com/drive/folders/12_hzjr4j6l6AAti3akW-4N5WwwoxWIJD)
 - [資料下載：第十屆區域立委臉書資料](https://drive.google.com/drive/folders/1R4lCnmcLYQqE-aejzwL7bpRORPHv7kqN)
 - [資料下載：情緒分析文本](https://drive.google.com/drive/folders/12_hzjr4j6l6AAti3akW-4N5WwwoxWIJD)
