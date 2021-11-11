@@ -5,9 +5,9 @@
   + 2021-10-12 Pandas基礎應用
   + 2021-10-19 基本資料視覺化
   + 2021-10-26 正則表達式、NER
-  + 2021-11-02 基本文字探勘、LDA
-  + 2021-11-09 文本共現網路分析
-  + 2021-11-16 期中報告
+  + 2021-11-02 自主學習，透過課程範例完成自選立委與分析議題
+  + 2021-11-09 基本文字探勘、LDA
+  + 2021-11-16 文本共現網路分析
   
 - [資料下載：第十屆立院發言資料](https://drive.google.com/drive/folders/12_hzjr4j6l6AAti3akW-4N5WwwoxWIJD)
 - [資料下載：第十屆區域立委臉書資料](https://drive.google.com/drive/folders/1R4lCnmcLYQqE-aejzwL7bpRORPHv7kqN)
